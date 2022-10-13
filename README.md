@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[Omnisonic's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omnisonic&theme=blue-green)](https://github.com/omnisonic/github-readme-stats)
