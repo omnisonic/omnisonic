@@ -16,13 +16,6 @@
 
 ---
 
-🔭 I’m currently working on several different website projects.
-
-🌱 I’m currently learning how provision vps and deploy applications to Amazon AWS
-
-👯 I’m looking to collaborate on projects that aim to solve human and social problems.
-
-🤔 I’m looking for help with finding my first developer role in a team setting.
 
 <!--
 **omnisonic/omnisonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
